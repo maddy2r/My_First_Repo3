@@ -1,0 +1,16 @@
+.topnav {
+    height: 50px;
+    background-color: lightgray;
+}
+.left {
+    float: left;
+    width: 29%;
+    height: 500px;
+    background-color: lightgreen;
+}
+.right {
+    float: right;
+    width: 70%;
+    height: 500px;
+    background-color: lightpink;
+}
